@@ -3,4 +3,9 @@
     <string name="home">home</string>
     <string name="add">add</string>
     <string name="favourites">favourites</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_is_the_home_fragment">this is the home fragment</string>
+    <string name="this_is_the_add_fragment">this is the add fragment</string>
+    <string name="this_is_the_favourites_fragment">this is the favourites fragment</string>
 </resources>
